@@ -1,0 +1,5 @@
+.git
+.github
+.env
+storage/logs/*.log
+README_AR.md

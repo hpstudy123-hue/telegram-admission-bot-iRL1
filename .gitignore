@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+config.local.php
+storage/logs/*
+.DS_Store
